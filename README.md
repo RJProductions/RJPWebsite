@@ -1,5 +1,5 @@
-RJPWebsite
-==========
+RJPWebsite (GitHub Pages site)
+==============================
 
 A website built for RJ Productions. 
 
