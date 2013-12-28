@@ -5241,7 +5241,7 @@ a.list-group-item.active > .badge,
 }
 
 .container .jumbotron {
-  border-radius: 6px;
+  border-radius: 10px;
 }
 
 .jumbotron .container {
@@ -7115,4 +7115,13 @@ td.visible-print {
   td.hidden-print {
     display: none !important;
   }
+}
+#header-styled {
+    padding-top:50px;
+    padding-bottom:40px;
+}
+
+.navbar-footer {
+    border-radius: 10px;
+    background-color: #eeeeee;
 }
