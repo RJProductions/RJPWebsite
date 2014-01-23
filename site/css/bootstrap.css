@@ -4521,7 +4521,7 @@ textarea.input-group-sm > .input-group-btn > .btn {
   display: block;
   width: 22px;
   height: 2px;
-  border-radius: 10px;
+  border-radius: 1px;
 }
 
 .navbar-toggle .icon-bar + .icon-bar {
