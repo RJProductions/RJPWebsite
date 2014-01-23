@@ -2686,7 +2686,7 @@ input[type="button"].btn-block {
 }
 
 .glyphicon {
-  position: relative;
+    position: relative;
   top: 1px;
   display: inline-block;
   font-family: 'Glyphicons Halflings';
@@ -2958,7 +2958,7 @@ input[type="button"].btn-block {
 }
 
 .glyphicon-facetime-video:before {
-  content: "\e059";
+    content: "\e059";
 }
 
 .glyphicon-picture:before {
